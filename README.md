@@ -50,8 +50,8 @@ Visualized exploratory data analysis (EDA), automated memory optimization, and a
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/Mahmoud4265/Real-World Data Pipeline & Memory Optimization Engine.git](https://github.com/Mahmoud4265/titanic-survival-prediction.git)
-   cd titanic-survival-prediction
+   git clone https://github.com/Mahmoud4265/Real-World-Data-Pipeline-Memory-Optimization-Engine.git
+cd Real-World-Data-Pipeline-Memory-Optimization-Engine
 Install required packages:
 
 1-Bash
