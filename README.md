@@ -51,12 +51,14 @@ Visualized exploratory data analysis (EDA), automated memory optimization, and a
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/Mahmoud4265/Real-World-Data-Pipeline-Memory-Optimization-Engine.git
-cd Real-World-Data-Pipeline-Memory-Optimization-Engine
-Install required packages:
+   cd Real-World-Data-Pipeline-Memory-Optimization-Engine
+   ```
+2.**Install required packages**:
 
-1-Bash
+```Bash
 pip install pandas numpy matplotlib seaborn scikit-learn
+```
 
 
-2-Run the analysis notebook:
+3-**Run the analysis notebook**:
 Launch Jupyter Notebook or VS Code and execute notebook.ipynb.
